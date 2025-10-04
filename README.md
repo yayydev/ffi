@@ -51,7 +51,7 @@ cmake --build . --config Release
 
 ## Prebuilt Binaries
 
-Prebuilt binaries for supported platforms are available on the [GitHub Releases](https://github.com/yourusername/ffi/releases) page.
+Prebuilt binaries for supported platforms are available on the [GitHub Releases](https://github.com/yayydev/ffi/releases) page.
 Download the appropriate binary for your operating system and extract it to use without compiling.
 
 ## Requirements
